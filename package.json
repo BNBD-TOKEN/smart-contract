@@ -1,0 +1,22 @@
+{
+  "name": "smart-contract",
+  "version": "1.0.0",
+  "description": "BNBD Token Smart Contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BNBD-TOKEN/smart-contract.git"
+  },
+  "author": "BNBD Foundation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BNBD-TOKEN/smart-contract/issues"
+  },
+  "homepage": "https://github.com/BNBD-TOKEN/smart-contract#readme"
+}
